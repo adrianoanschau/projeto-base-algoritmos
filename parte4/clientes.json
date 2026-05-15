@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1778094410933,
+    "nome": "Lucas",
+    "email": "lucas@email.com",
+    "categoria": "COMUM"
+  },
+  {
+    "id": 1778094475111,
+    "nome": "Lucas",
+    "email": "lucas@email.com",
+    "categoria": "COMUM"
+  },
+  {
+    "id": 1778094548038,
+    "nome": "Adriano",
+    "email": "adriano@senac.com",
+    "categoria": "VIP"
+  },
+  {
+    "id": 1778094548038,
+    "nome": "Lucas",
+    "email": "lucas@email.com",
+    "categoria": "COMUM"
+  },
+  {
+    "id": 1778094554620,
+    "nome": "Adriano",
+    "email": "adriano@senac.com",
+    "categoria": "VIP"
+  },
+  {
+    "id": 1778094554620,
+    "nome": "Lucas",
+    "email": "lucas@email.com",
+    "categoria": "COMUM"
+  }
+]
